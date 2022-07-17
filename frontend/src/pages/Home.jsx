@@ -6,7 +6,7 @@ const Home = () => {
   return (
 		<>
 			<section className="heading">
-				<h1>What Do Tou Need Help With?</h1>
+				<h1>What Do You Need Help With?</h1>
 				<p>Choose from the options below</p>
 			</section>
 			<Link to="/new-ticket" className="btn btn-reverse btn-block">
